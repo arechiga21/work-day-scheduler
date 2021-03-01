@@ -3,7 +3,7 @@
 ## Purpose
 Day scheduler with time block from 9 to 5 that chenges colors depending on the time of day.
 
-## Made
+## Made With
 * HTML
 * CSS
 * JavaScript
